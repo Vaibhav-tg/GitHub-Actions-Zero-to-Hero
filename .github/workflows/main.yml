@@ -1,5 +1,5 @@
 name: My First GitHub Actions
-#run when push or commit occur
+
 on: [push]
 
 jobs:
